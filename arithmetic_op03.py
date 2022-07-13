@@ -3,10 +3,10 @@
 #Find the reverse of the number and assign it to a variable called 'answer'.
 
 #Print the answer variable
-number = 65
+number = 29
 a=number//10
 number%10
 b=number%10
-ans=b*10+a
+answer=b*10+a
 
-print(ans)
+print(answer)
